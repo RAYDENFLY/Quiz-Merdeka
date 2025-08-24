@@ -1,0 +1,838 @@
+{
+  "total_questions": 240,
+  "time_minutes": 18,
+  "questions": [
+    {
+      "question": "Perjanjian Giyanti 1755 membagi Kerajaan Mataram menjadi?",
+      "choices": ["Kasunanan Surakarta dan Mangkunegaran", "Yogyakarta dan Surakarta", "Mataram dan Pajang", "Demak dan Banten"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang memimpin Perang Maluku melawan Belanda pada 1817?",
+      "choices": ["Pattimura", "Sultan Hasanuddin", "Teuku Umar", "Diponegoro"],
+      "answer": 0
+    },
+    {
+      "question": "Kapan VOC resmi dibubarkan?",
+      "choices": ["31 Desember 1799", "1 Januari 1800", "15 Agustus 1798", "1 Maret 1800"],
+      "answer": 0
+    },
+    {
+      "question": "Apa tujuan Politik Etis Belanda diperkenalkan pada awal abad ke-20?",
+      "choices": ["Meningkatkan kesejahteraan rakyat pribumi", "Membantu VOC menguasai rempah", "Mendekatkan Belanda ke Jepang", "Menghapus sistem tanam paksa"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pemimpin Perang Padri di Sumatera Barat?",
+      "choices": ["Tuanku Imam Bonjol", "Teuku Umar", "Pattimura", "Cut Nyak Dien"],
+      "answer": 0
+    },
+    {
+      "question": "Apa isi utama Traktat London 1824 bagi wilayah Indonesia?",
+      "choices": ["Belanda menguasai Malaka, Inggris mendapat Singapura", "Belanda menyerahkan Jawa kepada Inggris", "VOC kembali aktif", "Belanda membagi Sumatra dan Jawa"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang dikenal sebagai 'Bapak Marhaenisme'?",
+      "choices": ["Sukarno", "Moh. Hatta", "Tan Malaka", "Sutan Syahrir"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Diponegoro terjadi pada tahun?",
+      "choices": ["1825-1830", "1815-1820", "1840-1845", "1808-1812"],
+      "answer": 0
+    },
+    {
+      "question": "Apa latar belakang lahirnya Sarekat Islam?",
+      "choices": ["Ekonomi pedagang pribumi yang tertekan", "Pendidikan rakyat", "Kemerdekaan", "Persatuan pemuda"],
+      "answer": 0
+    },
+    {
+      "question": "BPUPKI dibentuk oleh Jepang pada tahun?",
+      "choices": ["1945", "1944", "1943", "1942"],
+      "answer": 1
+    },
+    {
+      "question": "Perjanjian Renville dilakukan untuk?",
+      "choices": ["Menghentikan agresi militer Belanda I", "Menghapus VOC", "Mendirikan BPUPKI", "Mengatur pajak rakyat"],
+      "answer": 0
+    },
+    {
+      "question": "Kapan Konferensi Meja Bundar (KMB) berlangsung?",
+      "choices": ["23 Agustus – 2 November 1949", "17 Agustus – 27 Desember 1945", "1 Januari – 10 Februari 1950", "10 November – 25 Desember 1948"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang menulis buku 'Indonesia Menggugat'?",
+      "choices": ["Sukarno", "Moh. Hatta", "Tan Malaka", "Soepomo"],
+      "answer": 0
+    },
+    {
+      "question": "Peristiwa Rengasdengklok bertujuan untuk?",
+      "choices": ["Mendesak proklamasi kemerdekaan", "Mengusir Jepang dari Jakarta", "Membubarkan BPUPKI", "Mengangkat pahlawan baru"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa yang dikenal sebagai Singa Podium?",
+      "choices": ["Dr. Cipto Mangunkusumo", "Tan Malaka", "Soepomo", "HOS Tjokroaminoto"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Puputan Badung terjadi di pulau?",
+      "choices": ["Bali", "Jawa", "Sumatra", "Sulawesi"],
+      "answer": 0
+    },
+    {
+      "question": "Pahlawan dari Maluku yang memimpin perlawanan adalah?",
+      "choices": ["Pattimura", "Teuku Umar", "Diponegoro", "Sultan Hasanuddin"],
+      "answer": 0
+    },
+    {
+      "question": "Tokoh yang memimpin rapat BPUPKI untuk dasar negara?",
+      "choices": ["Soepomo", "Sukarno", "Moh. Hatta", "Ki Bagus Hadikusumo"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pahlawan nasional yang dijuluki Jenderal Besar?",
+      "choices": ["Sudirman", "Soepomo", "Hatta", "Kartini"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Bali terkenal dengan sebutan?",
+      "choices": ["Puputan", "Amukti", "Samudra", "Kertanegara"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Tondano terjadi di wilayah?",
+      "choices": ["Sulawesi Utara", "Aceh", "Jawa Tengah", "Bali"],
+      "answer": 0
+    },
+    {
+      "question": "Tokoh yang dikenal sebagai Bapak Koperasi Indonesia adalah?",
+      "choices": ["Moh. Hatta", "Sukarno", "Ki Hajar Dewantara", "Tan Malaka"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pahlawan nasional dari Kalimantan?",
+      "choices": ["Pangeran Antasari", "Diponegoro", "Sukarno", "WR Supratman"],
+      "answer": 0
+    },
+    {
+      "question": "Apa isi utama Traktat Linggarjati?",
+      "choices": ["Belanda mengakui de facto RI hanya Jawa, Madura, Sumatra", "Belanda mengakui seluruh Indonesia merdeka", "Belanda membentuk negara federal", "Belanda menyerahkan Papua"],
+      "answer": 0
+    },
+    {
+      "question": "Agresi Militer Belanda II terjadi pada tahun?",
+      "choices": ["1948", "1947", "1946", "1949"],
+      "answer": 0
+    },
+    {
+      "question": "Tokoh yang menulis buku 'Indonesia Menggugat' adalah?",
+      "choices": ["Sukarno", "Moh. Hatta", "Tan Malaka", "Soepomo"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa pemimpin G30S/PKI yang ditangkap?",
+      "choices": ["DN Aidit", "Sudirman", "Sukarno", "Moh. Hatta"],
+      "answer": 0
+    },
+    {
+      "question": "Pahlawan nasional dari Bali yang memimpin Perang Puputan Margarana?",
+      "choices": ["Diponegoro", "Sultan Hasanuddin", "Pattimura", "I Gusti Ngurah Rai"],
+      "answer": 3
+    },
+    {
+      "question": "Perang di Sulawesi Selatan dipimpin oleh?",
+      "choices": ["Teuku Umar", "Sultan Hasanuddin", "Diponegoro", "Tuanku Imam Bonjol"],
+      "answer": 1
+    },
+    {
+      "question": "Siapakah pahlawan wanita Minahasa?",
+      "choices": ["Martha Christina Tiahahu", "Cut Nyak Dien", "Dewi Sartika", "RA Kartini"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang dijuluki Bapak Ekonomi Indonesia?",
+      "choices": ["Moh. Hatta", "Sukarno", "Tan Malaka", "Ki Hajar Dewantara"],
+      "answer": 0
+    },
+    {
+      "question": "Konferensi Meja Bundar (KMB) mengatur?",
+      "choices": ["Pengakuan kedaulatan RI oleh Belanda", "Pembaruan BPUPKI", "Pembubaran VOC", "Perjanjian Renville"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pemimpin PETA yang menjadi pahlawan nasional?",
+      "choices": ["Sutomo", "Gatot Subroto", "Soedirman", "Supriyadi"],
+      "answer": 3
+    },
+    {
+      "question": "Kapan Belanda mengakui kedaulatan Indonesia?",
+      "choices": ["27 Desember 1949", "17 Agustus 1945", "10 November 1945", "28 Oktober 1928"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pendiri Taman Siswa?",
+      "choices": ["Ki Hajar Dewantara", "Sukarno", "Moh. Hatta", "KH Ahmad Dahlan"],
+      "answer": 0
+    },
+    {
+      "question": "Budi Utomo berdiri pada?",
+      "choices": ["20 Mei 1908", "28 Oktober 1928", "17 Agustus 1945", "10 November 1945"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang dijuluki Singa Betawi?",
+      "choices": ["Moh. Husni Thamrin", "Sutan Syahrir", "Soepomo", "Tan Malaka"],
+      "answer": 0
+    },
+  {
+      "question": "Siapa raja Majapahit yang memimpin pada masa puncak kejayaannya?",
+      "choices": ["Hayam Wuruk", "Gajah Mada", "Raden Wijaya", "Airlangga"],
+      "answer": 0
+    },
+        {
+      "question": "Perjanjian Bongaya 1667 menandai kemenangan Belanda atas?",
+      "choices": ["Kerajaan Gowa", "Kerajaan Banten", "Kerajaan Mataram", "Kerajaan Aceh"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Jawa 1825–1830 dipimpin oleh?",
+      "choices": ["Pangeran Diponegoro", "Sultan Agung", "Tuanku Imam Bonjol", "Teuku Umar"],
+      "answer": 0
+    },
+    {
+      "question": "Apa isi utama Traktat Renville 1948?",
+      "choices": ["Pembagian wilayah RI dan Belanda sesuai de facto", "Pengakuan kedaulatan penuh RI", "Pendirian VOC kembali", "Penghapusan pajak rakyat"],
+      "answer": 0
+    },
+    {
+      "question": "Perjanjian Linggarjati menegaskan pengakuan Belanda terhadap wilayah RI?",
+      "choices": ["Jawa, Madura, dan Sumatra", "Seluruh Indonesia", "Bali dan Lombok", "Papua saja"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang memimpin Perang Banjar di Kalimantan?",
+      "choices": ["Pangeran Antasari", "Sultan Hasanuddin", "Tuanku Imam Bonjol", "Pattimura"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Aceh berlangsung selama?",
+      "choices": ["1873–1904", "1825–1830", "1908–1912", "1750–1760"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh pendiri Sarekat Islam?",
+      "choices": ["HOS Tjokroaminoto", "KH Ahmad Dahlan", "Sukarno", "Tan Malaka"],
+      "answer": 0
+    },
+    {
+      "question": "Organisasi Muhammadiyah didirikan pada tahun?",
+      "choices": ["1912", "1908", "1928", "1945"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang menulis buku 'Indonesia Menggugat'?",
+      "choices": ["Sukarno", "Tan Malaka", "Soepomo", "Moh. Hatta"],
+      "answer": 0
+    },
+    {
+      "question": "Sumpah Pemuda diproklamasikan pada tahun?",
+      "choices": ["1928", "1908", "1945", "1930"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa yang dikenal sebagai Bapak Pendidikan Indonesia?",
+      "choices": ["Ki Hajar Dewantara", "Sukarno", "Tan Malaka", "HOS Tjokroaminoto"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Bali terkenal dengan istilah?",
+      "choices": ["Puputan", "Amukti", "Samudra", "Kertanegara"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Padri terjadi di provinsi?",
+      "choices": ["Sumatera Barat", "Aceh", "Jawa Tengah", "Kalimantan"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pemimpin Perang Padri?",
+      "choices": ["Tuanku Imam Bonjol", "Pattimura", "Diponegoro", "Teuku Umar"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang memimpin perlawanan Aceh melawan Belanda?",
+      "choices": ["Teuku Umar", "Cut Nyak Dien", "Sultan Hasanuddin", "Pattimura"],
+      "answer": 0
+    },
+    {
+      "question": "Kapan Konferensi Meja Bundar dilaksanakan?",
+      "choices": ["1949", "1948", "1950", "1947"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang dikenal sebagai Singa Podium?",
+      "choices": ["Dr. Cipto Mangunkusumo", "Tan Malaka", "HOS Tjokroaminoto", "Soepomo"],
+      "answer": 0
+    },
+    {
+      "question": "BPUPKI dibentuk oleh Jepang pada tahun?",
+      "choices": ["1945", "1944", "1943", "1942"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa pahlawan nasional dari Maluku?",
+      "choices": ["Pattimura", "Teuku Umar", "Diponegoro", "Sultan Hasanuddin"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pahlawan wanita dari Aceh?",
+      "choices": ["Cut Nyak Dien", "Martha Christina Tiahahu", "Dewi Sartika", "RA Kartini"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pendiri Taman Siswa?",
+      "choices": ["Ki Hajar Dewantara", "KH Ahmad Dahlan", "Sukarno", "Moh. Hatta"],
+      "answer": 0
+    },
+    {
+      "question": "Budi Utomo didirikan pada?",
+      "choices": ["20 Mei 1908", "28 Oktober 1928", "17 Agustus 1945", "10 November 1945"],
+      "answer": 0
+    },
+    {
+      "question": "Apa isi utama Traktat Renville?",
+      "choices": ["Pembagian wilayah antara Belanda dan RI sesuai status de facto", "Pengakuan kedaulatan penuh RI", "Pembubaran VOC", "Penghapusan pajak rakyat"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Diponegoro berlangsung selama?",
+      "choices": ["1825-1830", "1815-1820", "1840-1845", "1808-1812"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang memimpin Perang Banjar?",
+      "choices": ["Pangeran Antasari", "Sultan Hasanuddin", "Tuanku Imam Bonjol", "Pattimura"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Jawa berakhir pada tahun?",
+      "choices": ["1830", "1825", "1840", "1835"],
+      "answer": 0
+    },
+    {
+      "question": "Kapan agresi militer Belanda I terjadi?",
+      "choices": ["1947", "1946", "1948", "1949"],
+      "answer": 0
+    },
+    {
+      "question": "Kapan agresi militer Belanda II terjadi?",
+      "choices": ["1948", "1947", "1946", "1949"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pemimpin PETA di Blitar yang menjadi pahlawan nasional?",
+      "choices": ["Supriyadi", "Gatot Subroto", "Sutomo", "Soedirman"],
+      "answer": 0
+    },
+    {
+      "question": "Kapan Belanda mengakui kedaulatan Indonesia?",
+      "choices": ["27 Desember 1949", "17 Agustus 1945", "10 November 1945", "28 Oktober 1928"],
+      "answer": 0
+    },
+    {
+      "question": "Perjanjian Bongaya 1667 dilakukan oleh Belanda terhadap?",
+      "choices": ["Kerajaan Gowa", "Kerajaan Banten", "Kerajaan Mataram", "Kerajaan Aceh"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pemimpin Perang Bali Puputan Margarana?",
+      "choices": ["I Gusti Ngurah Rai", "Diponegoro", "Pattimura", "Sultan Hasanuddin"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang dikenal sebagai Bapak Marhaenisme?",
+      "choices": ["Sukarno", "Moh. Hatta", "Tan Malaka", "Sutan Syahrir"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Padri terjadi di pulau?",
+      "choices": ["Sumatera", "Jawa", "Bali", "Sulawesi"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pahlawan nasional yang dijuluki Jenderal Besar?",
+      "choices": ["Sudirman", "Soepomo", "Hatta", "Kartini"],
+      "answer": 0
+    },
+    {
+      "question": "Apa tujuan utama Politik Etis Belanda?",
+      "choices": ["Meningkatkan kesejahteraan rakyat pribumi", "Memperkuat VOC", "Menghapus pajak", "Membalas kekalahan"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa yang menulis buku Max Havelaar?",
+      "choices": ["Multatuli", "Van Deventer", "C. Snouck Hurgronje", "Cornelis de Houtman"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang memimpin Perang Maluku 1817?",
+      "choices": ["Pattimura", "Sultan Hasanuddin", "Teuku Umar", "Diponegoro"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Aceh dipimpin oleh tokoh?",
+      "choices": ["Teuku Umar", "Pattimura", "Sultan Agung", "Gajah Mada"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa raja Majapahit yang memimpin pada masa puncak kejayaannya?",
+      "choices": ["Hayam Wuruk", "Gajah Mada", "Raden Wijaya", "Airlangga"],
+      "answer": 0
+    },
+    {
+      "question": "Perjanjian Bongaya 1667 menandai kemenangan Belanda atas?",
+      "choices": ["Kerajaan Gowa", "Kerajaan Banten", "Kerajaan Mataram", "Kerajaan Aceh"],
+      "answer": 1
+    },
+    {
+      "question": "Perang Jawa 1825–1830 dipimpin oleh?",
+      "choices": ["Pangeran Diponegoro", "Sultan Agung", "Tuanku Imam Bonjol", "Teuku Umar"],
+      "answer": 0
+    },
+    {
+      "question": "Apa isi utama Traktat Renville 1948?",
+      "choices": ["Pembagian wilayah sesuai status de facto", "Pengakuan kedaulatan penuh RI", "Pembubaran VOC", "Penghapusan pajak rakyat"],
+      "answer": 1
+    },
+    {
+      "question": "Perjanjian Linggarjati menegaskan pengakuan Belanda terhadap wilayah RI?",
+      "choices": ["Jawa, Madura, dan Sumatra", "Seluruh Indonesia", "Bali dan Lombok", "Papua saja"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang memimpin Perang Banjar di Kalimantan?",
+      "choices": ["Pangeran Antasari", "Sultan Hasanuddin", "Tuanku Imam Bonjol", "Pattimura"],
+      "answer": 2
+    },
+    {
+      "question": "Perang Aceh berlangsung selama?",
+      "choices": ["1873–1904", "1825–1830", "1908–1912", "1750–1760"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh pendiri Sarekat Islam?",
+      "choices": ["HOS Tjokroaminoto", "KH Ahmad Dahlan", "Sukarno", "Tan Malaka"],
+      "answer": 3
+    },
+    {
+      "question": "Organisasi Muhammadiyah didirikan pada tahun?",
+      "choices": ["1912", "1908", "1928", "1945"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang menulis buku 'Indonesia Menggugat'?",
+      "choices": ["Sukarno", "Tan Malaka", "Soepomo", "Moh. Hatta"],
+      "answer": 1
+    },
+    {
+      "question": "Sumpah Pemuda diproklamasikan pada tahun?",
+      "choices": ["1928", "1908", "1945", "1930"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa yang dikenal sebagai Bapak Pendidikan Indonesia?",
+      "choices": ["Ki Hajar Dewantara", "Sukarno", "Tan Malaka", "HOS Tjokroaminoto"],
+      "answer": 2
+    },
+    {
+      "question": "Perang Bali terkenal dengan istilah?",
+      "choices": ["Puputan", "Amukti", "Samudra", "Kertanegara"],
+      "answer": 3
+    },
+    {
+      "question": "Perang Padri terjadi di provinsi?",
+      "choices": ["Sumatera Barat", "Aceh", "Jawa Tengah", "Kalimantan"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pemimpin Perang Padri?",
+      "choices": ["Tuanku Imam Bonjol", "Pattimura", "Diponegoro", "Teuku Umar"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa tokoh yang memimpin perlawanan Aceh melawan Belanda?",
+      "choices": ["Teuku Umar", "Cut Nyak Dien", "Sultan Hasanuddin", "Pattimura"],
+      "answer": 0
+    },
+    {
+      "question": "Kapan Konferensi Meja Bundar dilaksanakan?",
+      "choices": ["1949", "1948", "1950", "1947"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa tokoh yang dikenal sebagai Singa Podium?",
+      "choices": ["Dr. Cipto Mangunkusumo", "Tan Malaka", "HOS Tjokroaminoto", "Soepomo"],
+      "answer": 1
+    },
+    {
+      "question": "BPUPKI dibentuk oleh Jepang pada tahun?",
+      "choices": ["1945", "1944", "1943", "1942"],
+      "answer": 3
+    },
+    {
+      "question": "Siapa pahlawan nasional dari Maluku?",
+      "choices": ["Pattimura", "Teuku Umar", "Diponegoro", "Sultan Hasanuddin"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa pahlawan wanita dari Aceh?",
+      "choices": ["Cut Nyak Dien", "Martha Christina Tiahahu", "Dewi Sartika", "RA Kartini"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa pendiri Taman Siswa?",
+      "choices": ["Ki Hajar Dewantara", "KH Ahmad Dahlan", "Sukarno", "Moh. Hatta"],
+      "answer": 1
+    },
+    {
+      "question": "Budi Utomo didirikan pada?",
+      "choices": ["20 Mei 1908", "28 Oktober 1928", "17 Agustus 1945", "10 November 1945"],
+      "answer": 2
+    },
+    {
+      "question": "Apa isi utama Traktat Renville?",
+      "choices": ["Pembagian wilayah antara Belanda dan RI sesuai status de facto", "Pengakuan kedaulatan penuh RI", "Pembubaran VOC", "Penghapusan pajak rakyat"],
+      "answer": 3
+    },
+    {
+      "question": "Perang Diponegoro berlangsung selama?",
+      "choices": ["1825-1830", "1815-1820", "1840-1845", "1808-1812"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa tokoh yang memimpin Perang Banjar?",
+      "choices": ["Pangeran Antasari", "Sultan Hasanuddin", "Tuanku Imam Bonjol", "Pattimura"],
+      "answer": 1
+    },
+    {
+      "question": "Perang Jawa berakhir pada tahun?",
+      "choices": ["1830", "1825", "1840", "1835"],
+      "answer": 3
+    },
+    {
+      "question": "Kapan agresi militer Belanda I terjadi?",
+      "choices": ["1947", "1946", "1948", "1949"],
+      "answer": 0
+    },
+    {
+      "question": "Kapan agresi militer Belanda II terjadi?",
+      "choices": ["1948", "1947", "1946", "1949"],
+      "answer": 3
+    },
+    {
+      "question": "Siapa pemimpin PETA di Blitar yang menjadi pahlawan nasional?",
+      "choices": ["Supriyadi", "Gatot Subroto", "Sutomo", "Soedirman"],
+      "answer": 0
+    },
+    {
+      "question": "Kapan Belanda mengakui kedaulatan Indonesia?",
+      "choices": ["27 Desember 1949", "17 Agustus 1945", "10 November 1945", "28 Oktober 1928"],
+      "answer": 0
+    },
+    {
+      "question": "Perjanjian Bongaya 1667 dilakukan oleh Belanda terhadap?",
+      "choices": ["Kerajaan Gowa", "Kerajaan Banten", "Kerajaan Mataram", "Kerajaan Aceh"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa pemimpin Perang Bali Puputan Margarana?",
+      "choices": ["I Gusti Ngurah Rai", "Diponegoro", "Pattimura", "Sultan Hasanuddin"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang dikenal sebagai Bapak Marhaenisme?",
+      "choices": ["Sukarno", "Moh. Hatta", "Tan Malaka", "Sutan Syahrir"],
+      "answer": 3
+    },
+    {
+      "question": "Perang Padri terjadi di pulau?",
+      "choices": ["Sumatera", "Jawa", "Bali", "Sulawesi"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pahlawan nasional yang dijuluki Jenderal Besar?",
+      "choices": ["Sudirman", "Soepomo", "Hatta", "Kartini"],
+      "answer": 0
+    },
+    {
+      "question": "Apa tujuan utama Politik Etis Belanda?",
+      "choices": ["Meningkatkan kesejahteraan rakyat pribumi", "Memperkuat VOC", "Menghapus pajak", "Membalas kekalahan"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa yang menulis buku Max Havelaar?",
+      "choices": ["Multatuli", "Van Deventer", "C. Snouck Hurgronje", "Cornelis de Houtman"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang memimpin Perang Maluku 1817?",
+      "choices": ["Pattimura", "Sultan Hasanuddin", "Teuku Umar", "Diponegoro"],
+      "answer": 2
+    },
+    {
+      "question": "Perang Aceh dipimpin oleh tokoh?",
+      "choices": ["Teuku Umar", "Pattimura", "Sultan Agung", "Gajah Mada"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa tokoh yang memimpin Perang Jawa 1825-1830?",
+      "choices": ["Pangeran Diponegoro", "Sultan Agung", "Tuanku Imam Bonjol", "Teuku Umar"],
+      "answer": 0
+    },
+     {
+      "question": "Siapa raja pertama Kerajaan Majapahit?",
+      "choices": ["Raden Wijaya", "Hayam Wuruk", "Gajah Mada", "Airlangga"],
+      "answer": 1
+    },
+    {
+      "question": "Perjanjian Giyanti 1755 membagi wilayah Mataram menjadi?",
+      "choices": ["Surakarta dan Yogyakarta", "Jakarta dan Bandung", "Aceh dan Sumatra", "Bali dan Lombok"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa yang memimpin Perang Puputan Badung di Bali?",
+      "choices": ["I Gusti Ngurah Rai", "Pattimura", "Sultan Hasanuddin", "Diponegoro"],
+      "answer": 3
+    },
+    {
+      "question": "Perang Diponegoro dipicu oleh?",
+      "choices": ["Pajak baru Belanda", "Pemberontakan Mataram", "Traktat Renville", "Perjanjian Linggarjati"],
+      "answer": 2
+    },
+    {
+      "question": "VOC didirikan pada tahun?",
+      "choices": ["1602", "1599", "1610", "1620"],
+      "answer": 1
+    },
+    {
+      "question": "Perang Maluku 1817 dipimpin oleh?",
+      "choices": ["Pattimura", "Sultan Hasanuddin", "Teuku Umar", "Diponegoro"],
+      "answer": 3
+    },
+    {
+      "question": "Tokoh yang dikenal sebagai Bapak Ekonomi Indonesia?",
+      "choices": ["Moh. Hatta", "Sukarno", "Tan Malaka", "Ki Hajar Dewantara"],
+      "answer": 1
+    },
+    {
+      "question": "Perang Banjar terjadi di pulau?",
+      "choices": ["Kalimantan", "Sumatra", "Jawa", "Bali"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa tokoh yang menulis buku 'Indonesia Menggugat'?",
+      "choices": ["Sukarno", "Tan Malaka", "Soepomo", "Moh. Hatta"],
+      "answer": 3
+    },
+    {
+      "question": "Perang Aceh berakhir pada tahun?",
+      "choices": ["1904", "1903", "1901", "1905"],
+      "answer": 3
+    },
+    {
+      "question": "Siapa tokoh pendiri Muhammadiyah?",
+      "choices": ["KH Ahmad Dahlan", "HOS Tjokroaminoto", "Ki Hajar Dewantara", "Sukarno"],
+      "answer": 1
+    },
+    {
+      "question": "Budi Utomo didirikan pada?",
+      "choices": ["1908", "1910", "1905", "1909"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa pahlawan nasional dari Minangkabau yang memimpin Perang Padri?",
+      "choices": ["Tuanku Imam Bonjol", "Diponegoro", "Pattimura", "Sultan Hasanuddin"],
+      "answer": 2
+    },
+    {
+      "question": "Konferensi Meja Bundar berlangsung pada tahun?",
+      "choices": ["1949", "1950", "1948", "1947"],
+      "answer": 1
+    },
+    {
+      "question": "Perang Tondano terjadi di pulau?",
+      "choices": ["Sulawesi Utara", "Sulawesi Selatan", "Sulawesi Tengah", "Sulawesi Tenggara"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa tokoh yang memimpin PETA Blitar?",
+      "choices": ["Supriyadi", "Sutomo", "Gatot Subroto", "Soedirman"],
+      "answer": 3
+    },
+    {
+      "question": "BPUPKI dibentuk oleh Jepang pada tahun?",
+      "choices": ["1944", "1943", "1942", "1945"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa tokoh yang dijuluki Singa Podium?",
+      "choices": ["Tan Malaka", "Dr. Cipto Mangunkusumo", "HOS Tjokroaminoto", "Soepomo"],
+      "answer": 3
+    },
+    {
+      "question": "Perjanjian Renville menegaskan?",
+      "choices": ["Pembagian wilayah de facto", "Pengakuan kedaulatan RI penuh", "Pembubaran VOC", "Penghapusan pajak"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa pahlawan wanita dari Aceh yang memimpin perang?",
+      "choices": ["Martha Christina Tiahahu", "Dewi Sartika", "Cut Nyak Dien", "RA Kartini"],
+      "answer": 2
+    },
+    {
+      "question": "Perang Bali Puputan Margarana terjadi pada tahun?",
+      "choices": ["1946", "1945", "1947", "1948"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa tokoh yang dikenal sebagai Bapak Marhaenisme?",
+      "choices": ["Tan Malaka", "Sukarno", "Moh. Hatta", "Sutan Syahrir"],
+      "answer": 3
+    },
+    {
+      "question": "Siapa pemimpin Perang Padri?",
+      "choices": ["Pattimura", "Tuanku Imam Bonjol", "Diponegoro", "Teuku Umar"],
+      "answer": 1
+    },
+    {
+      "question": "Perang Diponegoro berakhir pada tahun?",
+      "choices": ["1828", "1829", "1830", "1831"],
+      "answer": 2
+    },
+    {
+      "question": "Kapan agresi militer Belanda II terjadi?",
+      "choices": ["1947", "1948", "1949", "1950"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa pemimpin Perang Maluku 1817?",
+      "choices": ["Sultan Hasanuddin", "Diponegoro", "Pattimura", "Teuku Umar"],
+      "answer": 3
+    },
+    {
+      "question": "Siapa tokoh yang menulis Max Havelaar?",
+      "choices": ["C. Snouck Hurgronje", "Cornelis de Houtman", "Multatuli", "Van Deventer"],
+      "answer": 2
+    },
+    {
+      "question": "Perjanjian Giyanti membagi Mataram menjadi?",
+      "choices": ["Surakarta dan Yogyakarta", "Jakarta dan Bandung", "Aceh dan Sumatra", "Bali dan Lombok"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa pahlawan nasional dari Maluku?",
+      "choices": ["Teuku Umar", "Sultan Hasanuddin", "Diponegoro", "Pattimura"],
+      "answer": 1
+    },
+    {
+      "question": "Perang Aceh dipimpin oleh tokoh?",
+      "choices": ["Pattimura", "Sultan Agung", "Gajah Mada", "Teuku Umar"],
+      "answer": 3
+    },
+    {
+      "question": "Kapan Belanda mengakui kedaulatan Indonesia?",
+      "choices": ["17 Agustus 1945", "10 November 1945", "28 Desember 1949", "27 Desember 1949"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa tokoh pendiri Muhammadiyah?",
+      "choices": ["Sukarno", "KH Ahmad Dahlan", "Ki Hajar Dewantara", "HOS Tjokroaminoto"],
+      "answer": 2
+    },
+    {
+      "question": "Budi Utomo didirikan pada?",
+      "choices": ["28 Oktober 1928", "17 Agustus 1945", "20 Mei 1908", "10 November 1945"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa tokoh yang memimpin PETA Blitar?",
+      "choices": ["Sutomo", "Gatot Subroto", "Soedirman", "Supriyadi"],
+      "answer": 3
+    },
+    {
+      "question": "Perang Tondano terjadi di pulau?",
+      "choices": ["Sulawesi Selatan", "Sulawesi Tengah", "Sulawesi Utara", "Sulawesi Tenggara"],
+      "answer": 2
+    },
+    {
+      "question": "BPUPKI dibentuk oleh Jepang pada tahun?",
+      "choices": ["1944", "1943", "1942", "1945"],
+      "answer": 3
+    },
+    {
+      "question": "Siapa tokoh yang dikenal sebagai Singa Podium?",
+      "choices": ["HOS Tjokroaminoto", "Soepomo", "Dr. Cipto Mangunkusumo", "Tan Malaka"],
+      "answer": 3
+    },
+    {
+      "question": "Perjanjian Renville menegaskan?",
+      "choices": ["Pengakuan kedaulatan RI penuh", "Pembagian wilayah de facto", "Penghapusan pajak", "Pembubaran VOC"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa pahlawan wanita dari Aceh?",
+      "choices": ["Cut Nyak Dien", "Martha Christina Tiahahu", "Dewi Sartika", "RA Kartini"],
+      "answer": 2
+    },
+    {
+      "question": "Perang Bali Puputan Margarana terjadi pada tahun?",
+      "choices": ["1945", "1946", "1947", "1948"],
+      "answer": 3
+    },
+    {
+      "question": "Siapa tokoh yang dikenal sebagai Bapak Marhaenisme?",
+      "choices": ["Tan Malaka", "Sukarno", "Moh. Hatta", "Sutan Syahrir"],
+      "answer": 1
+    },
+    {
+      "question": "Perang Diponegoro berakhir pada tahun?",
+      "choices": ["1828", "1829", "1830", "1831"],
+      "answer": 1
+    },
+    {
+      "question": "Kapan agresi militer Belanda II terjadi?",
+      "choices": ["1947", "1948", "1949", "1950"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa pemimpin Perang Maluku 1817?",
+      "choices": ["Sultan Hasanuddin", "Diponegoro", "Pattimura", "Teuku Umar"],
+      "answer": 2
+    }
+    ,
+    {
+      "question": "Apa tujuan Traktat Bongaya 1667 bagi VOC?",
+      "choices": ["Memperluas pengaruh dagang di Sulawesi", "Menghapus pajak perdagangan", "Menutup pelabuhan Jawa", "Mendirikan benteng di Sumatra"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang memimpin Perang Banjar?",
+      "choices": ["Pangeran Antasari", "Tuanku Imam Bonjol", "Diponegoro", "Pattimura"],
+      "answer": 0
+    },
+    {
+      "question": "Apa hasil utama Perjanjian Linggarjati?",
+      "choices": ["Pengakuan Belanda atas wilayah RI secara de facto", "Pengakuan kedaulatan penuh RI", "Pembentukan negara federal", "Penghapusan VOC"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh pemimpin perlawanan rakyat di Sulawesi Utara?",
+      "choices": ["I Gusti Ketut Jelantik", "Pattimura", "Teuku Umar", "Sultan Hasanuddin"],
+      "answer": 0
+    }
+  ]
+}
+

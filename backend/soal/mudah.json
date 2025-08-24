@@ -1,0 +1,321 @@
+{
+  "total_questions": 69,
+  "time_minutes": 5,
+  "questions": [
+    {
+      "question": "Kerajaan Hindu pertama di Indonesia adalah?",
+      "choices": ["Kutai", "Majapahit", "Sriwijaya", "Tarumanegara"],
+      "answer": 0
+    },
+    {
+      "question": "Apa fungsi Sumpah Pemuda bagi kebangsaan Indonesia?",
+      "choices": ["Memperkuat persatuan bangsa", "Membentuk tentara", "Mengusir penjajah", "Mendirikan partai"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa yang dikenal sebagai penulis lagu 'Indonesia Pusaka'?",
+      "choices": ["Ismail Marzuki", "WR Supratman", "Ibu Sud", "R.A. Kartini"],
+      "answer": 0
+    },
+    {
+      "question": "Apa nama organisasi pemuda yang lahir sebelum Sumpah Pemuda?",
+      "choices": ["Jong Java", "Budi Utomo", "Muhammadiyah", "Sarekat Islam"],
+      "answer": 0
+    },
+    {
+      "question": "Di pulau manakah pusat Kerajaan Sriwijaya?",
+      "choices": ["Sumatra", "Jawa", "Bali", "Kalimantan"],
+      "answer": 0
+    },
+    {
+      "question": "Siapakah pemimpin Sumpah Pemuda yang terkenal?",
+      "choices": ["Soekarno", "Sutan Sjahrir", "Muhammad Yamin", "Wage Rudolf Supratman"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa pahlawan dari Aceh yang terkenal?",
+      "choices": ["Cut Nyak Dien", "Sukarno", "Hatta", "Tan Malaka"],
+      "answer": 0
+    },
+    {
+      "question": "Peristiwa 17 Agustus 1945 dikenal sebagai?",
+      "choices": ["Proklamasi Kemerdekaan Indonesia", "Hari Pahlawan", "Sumpah Pemuda", "Hari Kebangkitan Nasional"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa yang dikenal sebagai Bapak Pers Indonesia?",
+      "choices": ["Dr. Tjipto Mangunkusumo", "WR Supratman", "R.A. Kartini", "Ismail Marzuki"],
+      "answer": 0
+    },
+    {
+      "question": "Peristiwa Sumpah Pemuda terjadi pada tahun?",
+      "choices": ["1928", "1908", "1945", "1930"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa pahlawan nasional yang berasal dari Bali?",
+      "choices": ["I Gusti Ngurah Rai", "Sudirman", "Pattimura", "Sukarno"],
+      "answer": 0
+    },
+    {
+      "question": "Apa nama kongres pemuda yang melahirkan Sumpah Pemuda?",
+      "choices": ["Kongres Pemuda II", "Kongres Pemuda I", "Kongres Nasional", "Kongres Pancasila"],
+      "answer": 0
+    },
+    {
+      "question": "Tokoh yang terkenal memperjuangkan hak pendidikan untuk perempuan adalah?",
+      "choices": ["R.A. Kartini", "Cut Nyak Dien", "Dewi Sartika", "WR Supratman"],
+      "answer": 0
+    },
+    {
+      "question": "Sukarno dan Hatta memproklamasikan kemerdekaan di mana?",
+      "choices": ["Rumah Soekarno di Jalan Pegangsaan Timur", "Istana Merdeka", "Alun-alun Kota", "Gedung Sate"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa yang menciptakan lagu 'Indonesia Raya'?",
+      "choices": ["WR Supratman", "Ismail Marzuki", "Kusbini", "Ibu Sud"],
+      "answer": 0
+    },
+    {
+      "question": "Sumpah Palapa diucapkan oleh siapa?",
+      "choices": ["Diponegoro", "Hayam Wuruk", "Patih Kebo Iwa", "Gajah Mada"],
+      "answer": 3
+    },
+    {
+      "question": "Kerajaan maritim yang berpusat di Sumatra adalah?",
+      "choices": ["Sriwijaya", "Majapahit", "Tarumanegara", "Mataram"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Diponegoro terjadi pada tahun?",
+      "choices": ["1825-1830", "1750-1760", "1908-1912", "1945-1949"],
+      "answer": 0
+    },
+    {
+      "question": "Tokoh yang memimpin Perang Diponegoro adalah?",
+      "choices": ["Sultan Hasanuddin", "Tuanku Imam Bonjol", "Cut Nyak Dien", "Pangeran Diponegoro"],
+      "answer": 3
+    },
+    {
+      "question": "VOC adalah singkatan dari?",
+      "choices": ["Vereenigde Oost Company", "Van Orde Compagnie", "Vereenigde Ocean Company", "Verenigde Oostindische Compagnie"],
+      "answer": 3
+    },
+    {
+      "question": "Tokoh wanita yang berjuang di Aceh melawan Belanda adalah?",
+      "choices": ["R.A. Kartini", "Martha Christina Tiahahu", "Cut Nyak Dien", "Dewi Sartika"],
+      "answer": 2
+    },
+    {
+      "question": "Perang Padri terjadi di daerah?",
+      "choices": ["Aceh", "Sumatra Barat", "Kalimantan", "Jawa Tengah"],
+      "answer": 1
+    },
+    {
+      "question": "Siapakah pahlawan dari Maluku?",
+      "choices": ["Sudirman", "Moh. Hatta", "Sukarno", "Pattimura"],
+      "answer": 3
+    },
+    {
+      "question": "Siapakah penulis lagu Indonesia Raya?",
+      "choices": ["Ki Hajar Dewantara", "Ismail Marzuki", "Sudirman", "WR Supratman"],
+      "answer": 3
+    },
+    {
+      "question": "Organisasi Budi Utomo berdiri pada tahun?",
+      "choices": ["1945", "1908", "1912", "1928"],
+      "answer": 1
+    },
+    {
+      "question": "Tokoh pendiri Muhammadiyah adalah?",
+      "choices": ["HOS Tjokroaminoto", "Ki Hajar Dewantara", "KH Ahmad Dahlan", "Sukarno"],
+      "answer": 2
+    },
+    {
+      "question": "Sumpah Pemuda diikrarkan pada tanggal?",
+      "choices": ["28 Oktober 1928", "17 Agustus 1945", "1 Juni 1945", "20 Mei 1908"],
+      "answer": 0
+    },
+    {
+      "question": "Bahasa yang dipilih sebagai bahasa persatuan dalam Sumpah Pemuda adalah?",
+      "choices": ["Bahasa Jawa", "Bahasa Sunda", "Bahasa Indonesia", "Bahasa Melayu"],
+      "answer": 2
+    },
+    {
+      "question": "Siapakah presiden pertama Republik Indonesia?",
+      "choices": ["Soepomo", "Moh. Hatta", "Sudirman", "Sukarno"],
+      "answer": 3
+    },
+    {
+      "question": "Pahlawan wanita dari Jawa Tengah yang memperjuangkan emansipasi wanita adalah?",
+      "choices": ["Dewi Sartika", "R.A. Kartini", "Cut Nyak Dien", "Martha Christina Tiahahu"],
+      "answer": 1
+    },
+    {
+      "question": "Organisasi Sarekat Islam didirikan oleh?",
+      "choices": ["KH Ahmad Dahlan", "HOS Tjokroaminoto", "Sudirman", "Sukarno"],
+      "answer": 1
+    },
+    {
+      "question": "Kerajaan Islam pertama di Indonesia adalah?",
+      "choices": ["Demak", "Banten", "Aceh Darussalam", "Samudera Pasai"],
+      "answer": 3
+    },
+    {
+      "question": "Tokoh yang dikenal sebagai Bapak Pendidikan Indonesia adalah?",
+      "choices": ["Tan Malaka", "Moh. Hatta", "Ki Hajar Dewantara", "Sukarno"],
+      "answer": 2
+    },
+    {
+      "question": "Tokoh yang dikenal sebagai Bapak Koperasi Indonesia adalah?",
+      "choices": ["Sukarno", "Moh. Hatta", "Ki Hajar Dewantara", "Tan Malaka"],
+      "answer": 1
+    },
+    {
+      "question": "Siapakah pahlawan dari Bali yang melawan Belanda dalam Perang Puputan?",
+      "choices": ["Sultan Hasanuddin", "Diponegoro", "Pattimura", "I Gusti Ngurah Rai"],
+      "answer": 3
+    },
+    {
+      "question": "Perang Aceh dipimpin oleh tokoh?",
+      "choices": ["Sultan Agung", "Pattimura", "Teuku Umar", "Gajah Mada"],
+      "answer": 2
+    },
+    {
+      "question": "Pahlawan nasional yang dikenal dengan sebutan Singa Podium adalah?",
+      "choices": ["Soepomo", "Tan Malaka", "Dr. Cipto Mangunkusumo", "HOS Tjokroaminoto"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa nama pahlawan dari Minangkabau yang memimpin Perang Padri?",
+      "choices": ["Sultan Hasanuddin", "Diponegoro", "Tuanku Imam Bonjol", "Teuku Umar"],
+      "answer": 2
+    },
+    {
+      "question": "Siapakah pahlawan dari Sulawesi Selatan yang melawan VOC?",
+      "choices": ["Sultan Hasanuddin", "Teuku Umar", "Pattimura", "I Gusti Ngurah Rai"],
+      "answer": 0
+    },
+    {
+      "question": "Pahlawan perempuan dari Minahasa yang melawan Belanda adalah?",
+      "choices": ["Cut Nyak Dien", "Martha Christina Tiahahu", "Dewi Sartika", "R.A. Kartini"],
+      "answer": 1
+    },
+    {
+      "question": "Peristiwa Rengasdengklok terjadi pada tanggal?",
+      "choices": ["18 Agustus 1945", "16 Agustus 1945", "15 Agustus 1945", "17 Agustus 1945"],
+      "answer": 1
+    },
+    {
+      "question": "Tokoh yang memimpin rapat BPUPKI untuk dasar negara adalah?",
+      "choices": ["Moh. Hatta", "Soepomo", "Ki Bagus Hadikusumo", "Sukarno"],
+      "answer": 1
+    },
+    {
+      "question": "Apa nama kapal Belanda yang tenggelam di Laut Jawa saat melawan Jepang?",
+      "choices": ["Santa Maria", "VOC", "Victoria", "De Ruyter"],
+      "answer": 3
+    },
+    {
+      "question": "Tokoh yang dikenal sebagai Bapak Proklamator bersama Sukarno adalah?",
+      "choices": ["Ki Hajar Dewantara", "Moh. Hatta", "Sutan Sjahrir", "Tan Malaka"],
+      "answer": 1
+    },
+    {
+      "question": "Perang Puputan Badung terjadi di pulau?",
+      "choices": ["Sulawesi", "Sumatra", "Jawa", "Bali"],
+      "answer": 3
+    },
+    {
+      "question": "Organisasi Jong Java merupakan organisasi pemuda dari?",
+      "choices": ["Sulawesi", "Maluku", "Sumatra", "Jawa"],
+      "answer": 3
+    },
+    {
+      "question": "Apa semboyan terkenal Ki Hajar Dewantara?",
+      "choices": ["Sekali Merdeka Tetap Merdeka", "Bhinneka Tunggal Ika", "Ing Ngarsa Sung Tuladha", "Tut Wuri Handayani"],
+      "answer": 3
+    },
+    {
+      "question": "Siapa nama raja Mataram yang menyerang VOC di Batavia?",
+      "choices": ["Sultan Agung", "Sultan Hasanuddin", "Ken Arok", "Hayam Wuruk"],
+      "answer": 0
+    },
+    {
+      "question": "Apa nama organisasi pemuda yang memprakarsai Sumpah Pemuda?",
+      "choices": ["Budi Utomo", "PPPI", "Muhammadiyah", "Sarekat Islam"],
+      "answer": 1
+    },
+    {
+      "question": "Pahlawan dari Kalimantan yang melawan penjajah adalah?",
+      "choices": ["Diponegoro", "Pangeran Antasari", "WR Supratman", "Sukarno"],
+      "answer": 1
+    },
+    {
+      "question": "Siapa tokoh yang dijuluki 'Bapak Marhaenisme'?",
+      "choices": ["Soepomo", "Tan Malaka", "Moh. Hatta", "Sukarno"],
+      "answer": 3
+    },
+    {
+      "question": "Perang Jagaraga dipimpin oleh?",
+      "choices": ["Diponegoro", "Pattimura", "I Gusti Ketut Jelantik", "Pangeran Antasari"],
+      "answer": 2
+    },
+    {
+      "question": "Pahlawan yang dikenal sebagai 'Singa Betawi' adalah?",
+      "choices": ["Moh. Husni Thamrin", "Soepomo", "Sutan Sjahrir", "Tan Malaka"],
+      "answer": 0
+    },
+    {
+      "question": "Pahlawan yang terkenal dengan perjuangan di Banten adalah?",
+      "choices": ["KH Wasid", "Pattimura", "Diponegoro", "Teuku Umar"],
+      "answer": 0
+    },
+    {
+      "question": "Siapa tokoh yang dijuluki 'Bapak Ekonomi Indonesia'?",
+      "choices": ["Moh. Hatta", "Ki Hajar Dewantara", "Sukarno", "Tan Malaka"],
+      "answer": 0
+    },
+    {
+      "question": "Perang Tondano terjadi di daerah?",
+      "choices": ["Bali", "Sulawesi Utara", "Aceh", "Jawa Tengah"],
+      "answer": 1
+    },
+    {
+      "question": "Tokoh yang menulis buku 'Indonesia Menggugat' adalah?",
+      "choices": ["Moh. Hatta", "Soepomo", "Tan Malaka", "Sukarno"],
+      "answer": 3
+    },
+    {
+      "question": "Siapakah pemimpin G30S/PKI yang ditangkap?",
+      "choices": ["Sukarno", "Sudirman", "DN Aidit", "Moh. Hatta"],
+      "answer": 2
+    },
+    {
+      "question": "Siapa tokoh pemimpin PETA yang menjadi pahlawan nasional?",
+      "choices": ["Soedirman", "Sutomo", "Gatot Subroto", "Sudirman"],
+      "answer": 0
+    },
+    {
+      "question": "Pahlawan yang berjuluk 'Jenderal Besar' adalah?",
+      "choices": ["Soepomo", "Kartini", "Sudirman", "Hatta"],
+      "answer": 2
+    },
+    {
+      "question": "Perang Pattimura terjadi di kepulauan?",
+      "choices": ["Bali", "Maluku", "Sulawesi", "Kalimantan"],
+      "answer": 1
+    },
+    {
+      "question": "Perang Bali terkenal dengan sebutan?",
+      "choices": ["Kertanegara", "Samudra", "Puputan", "Amukti"],
+      "answer": 2
+    },
+    {
+      "question": "Siapakah tokoh yang dikenal dengan nama samaran 'Ilyas Husni'?",
+      "choices": ["Ki Hajar Dewantara", "Soepomo", "Tan Malaka", "Hatta"],
+      "answer": 2
+    }
+  ]
+}
